@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/new_setka_pacient/static/css/main.e6c13ad2.css",
+    "main.js": "/new_setka_pacient/static/js/main.295b39ce.js",
+    "index.html": "/new_setka_pacient/index.html",
+    "main.e6c13ad2.css.map": "/new_setka_pacient/static/css/main.e6c13ad2.css.map",
+    "main.295b39ce.js.map": "/new_setka_pacient/static/js/main.295b39ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.295b39ce.js"
+  ]
+}
